@@ -17,6 +17,6 @@ de praticar os conceitos básicos de Programação Orientada a Objetos (POO).
 ## Como executar
 
 1. Clone o repositório
-2. Abra o projeto em uma IDE
+2. Abra o projeto "Banco_Simples" em uma IDE
 3. navegue até controle_financeiro: src\main\java\com\mycompany\controle_financeiro
 4. Execute a classe principal (App.java)
